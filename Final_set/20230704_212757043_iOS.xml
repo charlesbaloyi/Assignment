@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Resized_images</folder>
+	<filename>20230704_212757043_iOS.jpg</filename>
+	<path>C:\Users\HP\Documents\Tomato dataset\Feature_eng\Resized_images\20230704_212757043_iOS.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>230</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dried leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>6</ymin>
+			<xmax>213</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>
