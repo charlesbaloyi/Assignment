@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Wildlife animals</folder>
+	<filename>Image_13.jpg</filename>
+	<path>C:\Users\HP\Documents\wildlife dataset\Wildlife animals\Image_13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1576</width>
+		<height>1159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>51</ymin>
+			<xmax>1380</xmax>
+			<ymax>1096</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>977</xmin>
+			<ymin>751</ymin>
+			<xmax>1419</xmax>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1279</xmin>
+			<ymin>962</ymin>
+			<xmax>1528</xmax>
+			<ymax>1131</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Wildlife animals</folder>
+	<filename>Image_23.jpg</filename>
+	<path>C:\Users\HP\Documents\wildlife dataset\Wildlife animals\Image_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Giraffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>550</xmin>
+			<ymin>51</ymin>
+			<xmax>1119</xmax>
+			<ymax>898</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Giraffe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>90</ymin>
+			<xmax>1079</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Wildlife animals</folder>
+	<filename>Image_21.jpg</filename>
+	<path>C:\Users\HP\Documents\wildlife dataset\Wildlife animals\Image_21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cheetah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>146</ymin>
+			<xmax>399</xmax>
+			<ymax>652</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cheetah</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>90</ymin>
+			<xmax>969</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

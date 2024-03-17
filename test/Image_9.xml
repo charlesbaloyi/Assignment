@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wildlife animals</folder>
+	<filename>Image_9.jpg</filename>
+	<path>C:\Users\HP\Documents\wildlife dataset\Wildlife animals\Image_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>81</ymin>
+			<xmax>1688</xmax>
+			<ymax>1151</ymax>
+		</bndbox>
+	</object>
+</annotation>

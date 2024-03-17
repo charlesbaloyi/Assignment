@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Wildlife animals</folder>
+	<filename>Image_24.jpg</filename>
+	<path>C:\Users\HP\Documents\wildlife dataset\Wildlife animals\Image_24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Moose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>76</ymin>
+			<xmax>972</xmax>
+			<ymax>738</ymax>
+		</bndbox>
+	</object>
+</annotation>
